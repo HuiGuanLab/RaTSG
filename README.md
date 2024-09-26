@@ -1,5 +1,5 @@
 # Temporal Sentence Grounding with Relevance Feedback in Videos
-This is a repository contains the implementation of our NeurIPS'24 poster paper "Temporal Sentence Grounding with Relevance Feedback in Videos" 
+This is a repository contains the implementation of our NeurIPS'24 paper "Temporal Sentence Grounding with Relevance Feedback in Videos" 
 ![overview](/figures/framework-RaTSG.jpg)
 
 
