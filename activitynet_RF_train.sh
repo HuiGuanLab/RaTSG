@@ -1,0 +1,1 @@
+python main.py --task activitynet_RF --save_dir datasets --model_dir ckpt --model_name RaTSG --test_name activitynet_test2.0.json --val_name activitynet_val2.0.json --batch_size 16 --init_lr 2e-3  --warmup_proportion 0. --epochs 150 --mode train --threshold 0.5 --gama 6. --beta 5. --n_heads 8

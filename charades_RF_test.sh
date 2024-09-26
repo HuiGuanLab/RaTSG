@@ -1,0 +1,1 @@
+python main.py --task charades_RF --save_dir datasets --model_dir ckpt --model_name RaTSG  --batch_size 16  --mode test --threshold .5
