@@ -52,3 +52,14 @@ We release several pretrained checkpoints, please download and put them into `./
 - RaTSG on Activitynet Captions-RF: [RaTSG_activitynet_RF_i3d_128](https://drive.google.com/drive/folders/1TQyojFEEhXsDg6GSChfGrmCcoKesigI5?usp=sharing)
 
 
+## Citation
+If you find this repository useful, please consider citing our paper:
+```
+@inproceedings{RaTSG2024,
+  title={Temporal Sentence Grounding with Relevance Feedback in Videos},
+  author={Jianfeng Dong and Xiaoman Peng and Daizong Liu and Xiaoye Qu and Xun Yang and Cuizhu Bao and Meng Wang},
+  booktitle={Proceedings of the 38th Conference on Neural Information Processing Systems (NeurIPS 2024)},
+  year={2024}
+}
+
+```
