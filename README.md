@@ -61,5 +61,4 @@ If you find this repository useful, please consider citing our paper:
   booktitle={Proceedings of the 38th Conference on Neural Information Processing Systems (NeurIPS 2024)},
   year={2024}
 }
-
 ```
