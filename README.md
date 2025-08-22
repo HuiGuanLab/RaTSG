@@ -55,10 +55,12 @@ We release several pretrained checkpoints, please download and put them into `./
 ## Citation
 If you find this repository useful, please consider citing our paper:
 ```
-@inproceedings{RaTSG2024,
-  title={Temporal Sentence Grounding with Relevance Feedback in Videos},
-  author={Jianfeng Dong and Xiaoman Peng and Daizong Liu and Xiaoye Qu and Xun Yang and Cuizhu Bao and Meng Wang},
-  booktitle={Proceedings of the 38th Conference on Neural Information Processing Systems (NeurIPS 2024)},
+@article{dong2024temporal,
+  title={Temporal sentence grounding with relevance feedback in videos},
+  author={Dong, Jianfeng and Peng, Xiaoman and Liu, Daizong and Qu, Xiaoye and Yang, Xun and Bao, Cuizhu and Wang, Meng},
+  journal={Advances in Neural Information Processing Systems},
+  volume={37},
+  pages={43107--43132},
   year={2024}
 }
 ```
